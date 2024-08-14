@@ -1,0 +1,12 @@
+id,pt,en,es
+test_case_success,"<div class='assessment-div-detail' onClick='ivprogCore.openAssessmentDetail(event)' data-page=""$1""><span>Caso de teste $0</span>: OK</div>","<div class='assessment-div-detail' onClick='ivprogCore.openAssessmentDetail(event)' data-page=""$1""><span>Test case $0</span>: OK</div>","<div class='assessment-div-detail' onClick='ivprogCore.openAssessmentDetail(event)' data-page=""$1""><span>Test case $0</span>: OK</div>"
+test_case_duration,Levou $0ms,Took $0ms,Tardó $0ms
+test_suite_grade,A sua solução alcançou $0% da nota.,Your solution scored $0% of the grade.,Su solución obtuvo $0% de la calificación.
+awaiting_input_message,O seu programa está em execução e aguardando uma entrada! Digite algo e pressione ENTER...,Your program is running and awaiting for an input. Type something and press ENTER…,Su programa se está ejecutando y esperando una entrada. Escriba algo y presione ENTER ...
+assessment-empty-expected-tooltip,A saída gerada foi além do esperado,The generated output was beyond the amount expected,The generated output was beyond the amount expected
+assessment-empty-generated-tooltip,O programa não gerou saídas suficientes,The program did not generate enough outputs,El programa no generó suficientes resultados.
+testcase_autogen_unused_input,A solução submetida não lê todas entradas disponíveis no caso de teste 1,The submitted solution does not read all inputs available in the test case $0,La solución presentada no lee todas las entradas disponibles en el caso de prueba 1
+testcase_autogen_empty,Sua solução não gerou qualquer saída para o caso de teste $0.,Your solution did not generate any output for test case $0.,Su solución no generó ningún resultado para el caso de prueba de $ 0.
+success_execution,Execução do programa finalizada!,Program execution finished!,¡Ejecución del programa terminada!
+aborted_execution,A execução do programa foi interrompida!,Program execution was aborted!,¡La ejecución del programa fue abortada!
+unexpected_execution_error,Erro inesperado durante a execução do programa.,Unexpected error during program execution.,Error inesperado durante la ejecución del programa.

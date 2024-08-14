@@ -1,0 +1,177 @@
+id,pt,en,es
+function,funcao,function,function
+btn_clear,Limpar,Clean,Limpiar
+btn_function,Função,Function,Funcíon
+btn_arithmetic_plus,Adição,Addition,Adición
+btn_arithmetic_minus,Subtração,Subtraction,Sustracción
+btn_arithmetic_multiplication,Multiplicação,Multiplication,Multiplicación
+btn_arithmetic_division,Divisão,Division,División
+btn_arithmetic_module,Módulo,Remainder,Resto
+btn_break,Pare,break,break
+btn_case,Caso,Case,Caso
+btn_add_var,Adicionar variável,Add a variable,Add a variable
+btn_drag_and_drop_function,Mover função,Move function,Mover función
+btn_delete_function,Excluir função,Delete function,Borrar función
+expression_invalid,Expressão inválida. Verifique a sintáxe antes de continuar.,Invalid expression. Check the syntax before proceeding.,Expresión no válida. Verifique la sintaxis antes de continuar.
+expression_undelcared_variable,Variáveis não declaradas:,Undeclared variables:,Variables no declaradas:
+expression_undeclared_function,Funções não definidas:,Undefined functions:,Funcíon no declaradas:
+start,inicio,main,main
+type_void,vazio,void,void
+type_integer,inteiro,int,int
+logic_operator_and,E,AND,AND
+logic_operator_or,OU,OR,OR
+logic_operator_not,nao,not,not
+type_real,real,real,real
+program,programa,program,program
+type_text,cadeia,string,string
+textvar_default_value,texto,text,texto
+type_boolean,logico,bool,bool
+logic_value_true,verdadeiro,true,true
+logic_value_false,falso,false,false
+variable,Variável,Variable,Variable
+command,Comando,Command,Comando
+new_parameter,parametro,parameter,parametro
+new_variable,variavel,variable,variable
+new_global,global,global,global
+new_function,nova_funcao,new_function,nueva_función
+matrix,matriz,matrix,matriz
+vector,vetor,vector,vector
+text_lock_expression,Bloquear expressão,Block expression,Expresión de bloque
+text_unlock_expression,Desbloquear expressão,Unlock expression,Desbloquear expresión
+text_edit_expression,Editar expressão manualmente,Edit expression manually,Editar expresión manualmente
+text_edit_expression_confirm,Confirmar edição,Confirm edition,Confirmar edición
+text_edit_expression_cancel,Cancelar edição,Cancel edition,Cancelar edición
+text_add_function,Adicionar uma nova função ao programa,Add a new function to the program,Agregar una nueva función al programa
+text_move_command,Mover comando,Move command,Mover comando
+text_add_parameters,Adicionar um novo parâmetro,Add a new parameter,Agregar un nuevo parámetro
+text_parameter_reference,Definir parâmetro como passagem por referência,Define parameter passed by reference,Define parameter passed by reference
+text_parameter_copy,Definir parâmetro como passagem por cópia,Define parameter passed by copy,Define parameter passed by copy
+text_comment_start,Comentário inicial da função...,Function initial comment,Comentario inicial de la función
+text_comment_main,Esta é a função principal...,This is the main funcion,Esta es la función principal
+text_read_var,Entrada/Leitura de dados,Input/Read data,Entrada/Lectura de dados
+text_write_var,Saída/Escrita de dados,Output/Write data,Salida/Escribir datos
+text_command_read,leia,read,read
+text_command_write,escreva,write,write
+text_return,devolva,return,return
+text_btn_return,Devolver,Return,Devolución
+text_comment,Comentário,Comment,Comentario
+string_join_or,ou,or,or
+matrix_info_string,matriz de $0,matrix of $0,matriz de $0
+vector_info_string,vetor de $0,vector of $0,vector de $0
+text_attribution,Atribuição,Assignment,Asignación
+text_if,se,if,if
+text_break,pare,break,break
+text_else,senao,else,else
+text_for,repita_para,repeat_for,repeat_for
+text_code_while,repita_enquanto,repeat_while,repeat_while
+text_code_do,repita,repeat,repeat
+text_code_do_until,ate_que,until,until
+text_command_do,repita,repeat,repeat
+text_command_while,repita enquanto,repeat while,repeat while
+text_command_do_until,até que,until,until
+text_code_switch,escolha,switch,switch
+text_code_case,caso,case,case
+text_config_programming,Programação,Programming,Programación
+text_config_programming_both,Visual e textual,Visual & Textual,Visual & Textual
+text_config_programming_textual,Textual,Textual,Textual
+text_config_programming_visual,Visual,Visual,Visual
+text_logic_expression,Lógicos,Logic,Lógicos
+text_arithmetic_expression,Aritméticos,Arithmetics,Aritmética
+text_iftrue,Se condição senão,If condition else,Si condicion sino
+text_message_error_activity_file,Aconteceu um erro ao processar a atividade. <br> Recarregue a página para tentar novamente.,There was an error processing the activity.<br> Reload the page to try again.,Se produjo un error al procesar la actividad.<br> Recargar la página para volver a intentarlo.
+text_message_error_upload_file,Não foi possível carregar o arquivo.<br>Verifique o conteúdo do arquivo e tente novamente.,It was not possible upload the file.<br>Verify the file's content and try again.,text_message_error_upload_file
+text_message_error_upload_close,Fechar,Close,Close
+text_message_error_activity_reload,Recarregar,Reload,Recargar
+text_repeatNtimes,Repita N vezes,Repeat N times,Repetir N veces
+text_receives,recebe,receives,receives
+text_whiletrue,Enquanto verdadeiro,While true,Mientras verdad
+text_dowhiletrue,Repita até que verdadeiro,Repeat until true,Repita hasta verdad
+text_switch,Escolha,Switch,Switch
+text_functioncall,Chamada de função,Function call,Llamada de función
+text_value,Valor,Value,Valor
+text_operator,Operador,Operator,Operador
+text_parentheses,Parênteses,Parentheses,Paréntesis
+text_change,Alterar,Modify,Modify
+text_teacher_algorithm,Algoritmo,Algorithm,Algorithm
+text_teacher_algorithm_include,Incluir o algoritmo abaixo no exercício,Include the algorithm below in the activity,Incluir el algoritmo en la actividad.
+text_teacher_test_case,Casos de teste,Test cases,Test cases
+text_teacher_config,Configurações,Configurations,Configuraciones
+text_teacher_data_types,Tipos de dados,Data types,Data types
+text_teacher_commands,Comandos,Commands,Commands
+text_teacher_functions,Funções,Functions,Funciones
+text_teacher_create_functions,Criar novas funções,Create new functions,Create new functions
+text_teacher_create_movement_functions,Movimentar funções,Move functions,Move functions
+text_teacher_test_case_input,Entrada,Input,Input
+text_teacher_test_case_output,Saída,Output,Output
+text_teacher_test_case_actions,Ações,Actions,Actions
+text_teacher_test_case_add,Adicionar caso de teste,Add test case,Add test case
+text_header_ivprog_functions,Funções do iVProg,iVProg Functions,iVProg Functions
+text_menu_functions_math,Matemática,Math,Math
+text_menu_functions_text,Texto,Text,Text
+text_menu_functions_array,Arranjo,Array,Array
+text_menu_functions_conversion,Conversão,Conversion,Conversion
+text_no_variable,Nenhuma variável declarada,No variable declared,No variable declared
+text_no_variable_instruction,"Antes de utilizar uma variável, é necessário criá-la","Before using a variable, you need to create it","Antes de usar una variable, debe crearla"
+text_ivprog_description,Programação Visual interativa na Internet,Interactive and Visual Programming on the Internet,Interactive and Visual Programming on the Internet
+tooltip_visual,Programação visual,Visual programming,Visual programming
+tooltip_textual,Programação textual,Textual programming,Textual programming
+tooltip_upload,Upload de código fonte,Upload source code,Upload source code
+tooltip_download,Download do código fonte,Download source code,Download source code
+tooltip_undo,Desfazer,Undo,Undo
+tooltip_redo,Refazer,Redo,Redo
+tooltip_run,Executar o programa,Run the program,Run the program
+tooltip_evaluate,Avaliar o programa,Evaluate the program,Evaluate the program
+tooltip_help,Ajuda,Help,Help
+tooltip_add_global,Adicionar variável global,Add a global variable,Add a global variable
+tooltip_hide_function,Ocultar os elementos da função,Hide function elements,Hide function elements
+var_menu_select_var,Selecione uma variável,Select a variable,Select a variable
+var_menu_select_all,Selecione,Select,Select
+var_menu_select_function,Selecione uma função,Select a function,Select a function
+expression_menu_select,Construir uma expressão lógica,Construct a logic expression,Construct a logic expression
+inform_valid_content,Informe o conteúdo!,Provide some data,Proporcionar algunos datos
+inform_valid_expression,Construa uma expressão lógica!,Construct a logic expression,Construct a logic expression
+tooltip_terminal_clear,Limpa o terminal removendo todos os textos já escritos e os pendentes.,Clears the terminal by removing all wrriten and pending text.,Borra el terminal eliminando todo el texto escrito y pendiente.
+tooltip_terminal_show,Exibe o terminal caso esteja escondido,Shows the terminal if it is hidden,Muestra el terminal si está oculto.
+tooltip_terminal_hide,Esconde o terminal caso não esteja escondido,Hides the terminal if it is not on display,Oculta el terminal si no está en exhibición
+tooltip_menu_read,Comando para receber dados pelo teclado,Command to input data from keyboard,Command to input data from keyboard
+tooltip_menu_write,Comando para apresentar conteúdo ao usuário,Command to present content to user,Command to present content to user
+tooltip_menu_comments,Bloco para comentários internos do programador,Block to comments from developer,Block to comments from developer
+tooltip_menu_attribution,Comando para atribuir uma expressão a uma variável,Command to assign an expression to a variable,Command to assign an expression to a variable
+tooltip_menu_call_function,Comando para realizar a chamada de uma função,Command to execute a function call,Command to execute a function call
+tooltip_menu_if_else,Estrutura para que os comandos só sejam executados de acordo com as condições estabelecidas,Structure in which command only run when the conditions are satisfied,Structure in which command only run when the conditions are satisfied
+tooltip_menu_repeat_n_times,Estrutura para executar um bloco de comandos repetidamente,Structure to execute a block of commands repeatedly,Structure to execute a block of commands repeatedly
+tooltip_menu_repeat_whiletrue,Estrutura para repetir um bloco de comandos enquanto a condição for verdadeira,Structure to execute a block repeatdly while condition is true,Structure to execute a block repeatdly while condition is true
+tooltip_menu_repeat_dowhiletrue,Estrutura que executa um bloco e o repete enquanto a condição for verdadeira,Structure that executes a block and repeat while the condition is true,Structure that executes a block and repeat while the condition is true
+tooltip_menu_repeat_switch,Estrutura de escolha do bloco a ser executado,Structure that choices the block to be executed,Structure that choices the block to be executed
+tooltip_menu_repeat_return,Comando para devolver o resultado e finalizar a função,Command to return the result and finish the function,Command to return the result and finish the function
+tooltip_move_var,Mover variável,Move variable,Move variable
+tooltip_remove_var,Excluir variável,Delete variable,Delete variable
+text_ivprog_version,Versão,Version,Version
+text_teacher_filter,Filtro,Filter,Filter
+text_teacher_filter_active,Ativado,Activated,Activated
+text_teacher_filter_help,"Ao ativar o filtro, as modificações do iVProg estarão bloqueadas.",By activating the filter modifications in iVProg will be blocked,"Al activar el filtro, las modificaciones en iVProg serán bloqueadas"
+text_join_assessment_outputs, ; , ; , ;
+assessment-detail-time-label,Duração,Duration,Duration
+assessment-detail-grade-label,Nota,Grade,Grade
+assessment-detail-input-label,Entradas,Inputs,Inputs
+assessment-detail-output-label,Saídas,Outputs,Outputs
+assessment-detail-expected-label,Esperava,Expected,Expected
+assessment-detail-generated-label,Gerou,Generated,Generated
+assessment-detail-result-label,Correção,Correction,Correction
+assessment-detail-title,Caso de Teste $0,Test Case $0,Test Case $0
+text_teacher_generate_outputs,Gerar saídas,Generate outputs,Generate outputs
+text_teacher_generate_outputs_algorithm,"Antes de gerar as saídas, elabore um algoritmo!",Before generating the outputs you need to create an algorithm,Antes de generar las salidas necesita crear un algoritmo
+text_code_for_from,de,from,from
+text_code_for_to,ate,to,to
+text_code_for_pass,passo,pass,pass
+text_for_from,de,from,from
+text_for_to,até,to,to
+text_for_pass,passo,pass,pass
+text_relational_expression,Relacionais,Relational,Relational
+write_command_newline_on,Quebra de linha ativada, Line break is on,El salto de línea está activado
+write_command_newline_off, Quebra de linha desativada, Line break is off,El salto de línea está desactivado
+write_seprator_menu_text,Espaço,Spacer,Spacer
+initial_program_code,programa {\n\n\t\tfuncao vazio inicio () {\n\t\t\t// Inicie seu codigo aqui!\n\t\t}\n},program {\n\n\t\tfunction void main () {\n\t\t\t// Start your code here!\n\t\t}\n},program {\n\n\t\tfunction void main () {\n\t\t\t// Start your code here!\n\t\t}\n}
+type_char,caractere,char,char
+charvar_default_value,A,A,A
+write_seprator_menu_tooltip,Separador para imprimir mais valores/variáveis,Separator used to print more values/variables,Separator used to print more values/variables
